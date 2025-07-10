@@ -7,7 +7,7 @@ import requests
 import pandas as pd
 from NewD90 import ssRNA  # Make sure NewD90.py is in the same directory
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 app.secret_key = 'your_secret_key'
 CORS(app)
 
