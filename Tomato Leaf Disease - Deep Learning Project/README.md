@@ -60,9 +60,6 @@ Tomato crops are vulnerable to a variety of leaf diseases, which can reduce yiel
 - Add more crop types and diseases
 
 ---
-
-## 👩‍💻 Author
-
-Built by **Chandana**  
+Built by Chandana 
 ---
 
